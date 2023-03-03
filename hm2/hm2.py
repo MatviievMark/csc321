@@ -102,7 +102,6 @@ def goThroughIPs(interfaces):
 # function that returns both the IPv4 adress and the IPv6 adress object representation
 # of the netmasks for the given interface as a dictionary
 
-
 def get_netmasks(interface: str):
     # create a dictioary object
     ip_adresses = dict()
@@ -209,20 +208,10 @@ def goThroughNetworks(interfaces):
     print(df)
 
 
-# def goThroughNetworks(interfaces):
-
-#     data = {
-#         'Adress': interfaces,
-#         'ipv4 & ipv6': [get_network(adress) for adress in interfaces]
-#     }
-#     df = pd.DataFrame(data)
-#     print(df)
-
 # ----------------------------------------------------------------
 # calling the functions
-
 # goThroughInterfaces(var)
 # goThroughMAC(var)
-# goThroughIPs(var)
+goThroughIPs(var)
 # goThroughNetmasks(var)
 # goThroughNetworks(var)
