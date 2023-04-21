@@ -1,0 +1,119 @@
+domain	Error resolving domain
+google.com	atl26s18-in-f14.1e100.net
+youtube.com	atl14s76-in-f14.1e100.net
+facebook.com	edge-star-mini-shv-01-atl3.facebook.com
+baidu.com	No reverse DNS record found
+yahoo.com	media-router-fp74.prod.media.vip.bf1.yahoo.com
+amazon.com	s3-console-us-standard.console.aws.amazon.com
+wikipedia.org	text-lb.codfw.wikimedia.org
+QQ	Error resolving domain
+India	Error resolving domain
+twitter.com	No reverse DNS record found
+Live	Error resolving domain
+taobao.com	No reverse DNS record found
+Japan	Error resolving domain
+bing.com	No reverse DNS record found
+instagram.com	instagram-p42-shv-01-atl3.fbcdn.net
+Weibo	Error resolving domain
+Corp	Error resolving domain
+linkedin.com	No reverse DNS record found
+Japan	Error resolving domain
+msn.com	No reverse DNS record found
+vk.com	srv78-132-240-87.vk.com
+Germany	Error resolving domain
+yandex.ru	yandex.ru
+hao123.com	No reverse DNS record found
+UK	Error resolving domain
+reddit.com	No reverse DNS record found
+ebay.com	ru-public-slcaz01-1-1.ebay.com
+France	Error resolving domain
+t.co	No reverse DNS record found
+tmall.com	No reverse DNS record found
+Brazil	Error resolving domain
+Safeguard	Error resolving domain
+sohu.com	No reverse DNS record found
+Japan	Error resolving domain
+pinterest.com	No reverse DNS record found
+mail.ru	mail.ru
+onclickads.net	No reverse DNS record found
+netflix.com	ec2-54-160-93-182.compute-1.amazonaws.com
+Italy	Error resolving domain
+Russia	Error resolving domain
+microsoft.com	No reverse DNS record found
+Spain	Error resolving domain
+wordpress.com	No reverse DNS record found
+Daily	Error resolving domain
+tumblr.com	assets.tumblr.com
+PayPal.com	xoom.com
+blogspot.com	yi-in-f191.1e100.net
+imgur.com	No reverse DNS record found
+Overflow	Error resolving domain
+aliexpress.com	No reverse DNS record found
+Naver.com	No reverse DNS record found
+ok.ru	ip13.155.odnoklassniki.ru
+Inc.	Error resolving domain
+github.com	lb-140-82-114-3-iad.github.com
+Mexico	Error resolving domain
+Daily	Error resolving domain
+imdb.com	No reverse DNS record found
+Korea	Error resolving domain
+Portal	Error resolving domain
+Mall	Error resolving domain
+blogger.com	atl14s90-in-f9.1e100.net
+163.com	No reverse DNS record found
+Canada	Error resolving domain
+Hong	Error resolving domain
+whatsapp.com	whatsapp-cdn-shv-01-atl3.fbcdn.net
+India	Error resolving domain
+Office	Error resolving domain
+Turkey	Error resolving domain
+Club	Error resolving domain
+Indonesia	Error resolving domain
+youku.com	No reverse DNS record found
+rakuten.co.jp	rakuten.co.jp
+craigslist.org	www.craigslist.org
+Germany	Error resolving domain
+nicovideo.jp	No reverse DNS record found
+Poland	Error resolving domain
+soso.com	No reverse DNS record found
+bilibili.com	ecs-119-3-70-188.compute.hwclouds-dns.com
+dropbox.com	No reverse DNS record found
+News	Error resolving domain
+outbrain.com	chi.outbrain.com
+pixnet.net	ip-103-23-108-107.static.pixnet.tw
+Group	Error resolving domain
+alipay.com	No reverse DNS record found
+Online	No reverse DNS record found
+Taiwan	Error resolving domain
+booking.com	www.booking.com
+file	Error resolving domain
+Australia	Error resolving domain
+popads.net	No reverse DNS record found
+cntv.cn	No reverse DNS record found
+zhihu.com	No reverse DNS record found
+UK	Error resolving domain
+diply.com	No reverse DNS record found
+Cốc	Error resolving domain
+cnn.com	No reverse DNS record found
+bbc.co.uk	No reverse DNS record found
+twitch.tv	No reverse DNS record found
+wikia.com	No reverse DNS record found
+Thailand	Error resolving domain
+Argentina	Error resolving domain
+go.com	174.60.236.23.bc.googleusercontent.com
+Netherlands	Error resolving domain
+UK	Error resolving domain
+kat.cr	No reverse DNS record found
+Globo	Error resolving domain
+Ukraine	Error resolving domain
+Online	No reverse DNS record found
+avito.ru	No reverse DNS record found
+Colombia	Error resolving domain
+Vietnam	Error resolving domain
+Philippines	Error resolving domain
+doubleclick.net	atl26s29-in-f14.1e100.net
+onet.pl	aafc88a28d9997374.awsglobalaccelerator.com
+Ad	Error resolving domain
+accuweather.com	a23-47-216-35.deploy.static.akamaitechnologies.com
+Web	Error resolving domain
+Answers	Error resolving domain
